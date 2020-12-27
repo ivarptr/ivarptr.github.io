@@ -6,3 +6,5 @@ categories: Software
 ---
 
 Just a post.
+
+![](/images/hippo-2.0.png)
